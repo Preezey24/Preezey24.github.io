@@ -5,6 +5,5 @@
 }
 
 .container_tech {
-    display: flex;
-    flex-direction: row; 
+    width: 50px; 
 }
